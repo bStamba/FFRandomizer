@@ -13,7 +13,6 @@ public class FFRandomizerMain {
 		ff.incentivesRandomizer();
 		ff.expGoldRandomizer();
 		
-		System.out.println("");
 		System.out.println("Enjoy the game and best of luck!");
 		System.exit(0);
 	}
